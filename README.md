@@ -1,4 +1,4 @@
-# Multitude Agency project
+# Multitude Agency
 
 The objective of this project is to improve the [English Front Page](https://www.multitude.nl/en) of the Multitude Agency by:
 
@@ -58,6 +58,7 @@ Install this Chrome extension manually:
 -  https://www.multitude.nl/en/work/2-degrees-investing-initiative
 -  https://humanebydesign.com/principles/inclusive
 -  https://a11y.coffee/quick-wins/
+-  https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh
 -  https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/
 -  https://mxb.dev/blog/color-theme-switcher/
 -  https://medium.com/pulsar/which-accessibility-testing-tool-should-you-use-e5990e6ef0a
